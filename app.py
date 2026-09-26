@@ -17,6 +17,7 @@ events = [
     Event(2, "Python Workshop"),
     Event(3, "Data Science Conference"),
     Event(4, "AI Summit")
+    
 ]
 
 @app.route("/", methods=["GET"])
